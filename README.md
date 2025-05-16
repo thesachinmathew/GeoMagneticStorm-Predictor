@@ -1,4 +1,4 @@
-🌌 #GeoMagneticStorm Predictor
+🌌 GeoMagneticStorm Predictor
 GeoMagneticStorm Predictor is an advanced machine learning-based system designed to accurately predict geomagnetic storms using real-time and historical space weather data. This project combines scientific research, feature engineering, and state-of-the-art AI models (including Random Forest, XGBoost, LSTM, and LSTM-CNN hybrids) to forecast geomagnetic storm intensity and potential risks. It also includes a comparative graphical GUI that displays prediction results, model accuracy, and helps users interpret results effectively.
 
 🌠 Table of Contents
